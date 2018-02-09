@@ -13,7 +13,10 @@ In most cases, there is not a compelling business reason to require huge amounts
 As a potential investor, you will either want to put your money toward the greater cause of research and development without expecting anything back, or you will want to put your money toward something that will become an excellent product.
 - In the former, the team putting together the ICO should be honest and clear about why they are the better team and why they need to perform this research independently of other teams already doing similar things as my first inclination would be to ask "why are you not trying to get along with the more established teams that invented this stuff and are offering grants at the moment?"  This also means they should not be emphasizing a product or set of products that imply that you can expect a return on your investment.
 - In the latter, the team putting together the ICO should have a pitch deck reminiscent of startup pitch decks while making a clear case for why an ICO is needed (not just preferred) as opposed to asking angel investors and venture capitalists.  If traditional investors are already passing up this opportunity, it certainly makes me think twice.  Even startups have to make a clear case for why they need angel investments and venture capital as opposed to just putting the good idea together (bank loan or not) and obtaining vendors in the more traditional small business way.
+
 By the way, I fail to see how putting a cap on the ICO is substantially more responsible than not capping the ICO.  I tend to see this as purely a PR scheme.  It's like saying, "we're not as bad as those other guys because found it morally reprehensible to run away with anything in excess of this particular amount."  Yes, call me cynical.
+
+---
 
 ## Overall
 
@@ -90,4 +93,12 @@ By the way, I fail to see how putting a cap on the ICO is substantially more res
 #### Possibly Positive Notions:
 - Breaking down milestones by when, what, how, and what resources will be required/used for each milestone.  This is the level of proposal/quote detail folks are used to expecting in so many other industries (insurance, construction, etc.), so I see no reason why it can't be expected in this industry as well.  After all, your money is going toward purported "experts" who should be able to give a fairly detailed explanation off-the-cuff based on their experience.
 
-So this is my challenge for teams cranking out ICOs and making a killing off ICOs-in-a-box.
+---
+
+So this is my challenge for teams cranking out ICOs and making a killing off ICOs-in-a-box: Improve the content you crank out and earn your keep.  Be a stalwart gatekeeper for potential investors and require your clients to supply quality information to the public so you feel good about putting your watermark behind the company.
+
+As a final note on blockchains: While I'm not a financial advisor and cannot make specific recommendations on how to valuate ICOs, I can tell you that I prefer to look at the business model to see where the funding bottlenecks and potential traps are.  I've found that in most cases, it is either
+- at the gap between on-chain information and off-chain information (i.e. public reporting vs. private accounting practices at the corporate level, a la "we promise to post screenshots of our bank account balances and we're independently audited, etc.") , or
+- at the gap between the main blockchain and the other piece of blockchain (i.e. layer 2 / sidechain, smart contract script, etc.)
+
+where the decentralition of the blockchain becomes centralized at any point in the process, even if temporarily (e.g. elected relayer nodes).
