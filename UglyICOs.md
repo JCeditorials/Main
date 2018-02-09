@@ -23,8 +23,8 @@ By the way, I fail to see how putting a cap on the ICO is substantially more res
 ## Overall
 
 #### Red Flags:
-- Key information is inconsistent across available publications
-- "Proprietary" methods and background algorithms that are not explained
+- Key information is inconsistent across available publications.
+- "Proprietary" methods and background algorithms that are not explained.
 
 #### Yellow Flags:
 - Emphasis on what could be done and what the team would like to do vs. what they are doing and just need extra funding to accomplish.
