@@ -1,8 +1,10 @@
 # JC's Guide to Identifying Ugly ICOs
 
-People come up with all kinds interesting things.  The latest and greatest seems to be "\[some-search-engine-word\] blockchain" = next ICO.  It's so formulaic!  "Awesome" blockchain.  "World Peace" blockchain.  The most interesting part is that quite often the people who are leading these endeavors don't even realize it's "Money-Laundering Method #2855" blockchain until a blockchain developer is being walked through how they want the technology to be set up and firmly-but-gently encourages them to run the operation by legal counsel.  If they don't even know it's money-laundering, how would the average "Main Street" investor?
+People come up with all kinds interesting things.  Really, the more innovative human beings become, the more regulation we have (eventually) and the more evident it becomes that most people are just not that creative.  The latest and greatest seems to be "\[some-search-engine-word\] blockchain" = next ICO.  It's so formulaic!  "Awesome" blockchain.  "World Peace" blockchain.  The most interesting part is that quite often the people who are leading these endeavors don't even realize it's "Money-Laundering Method #2855" blockchain ... until a blockchain developer is being walked through how they want the technology to be set up and firmly-but-gently encourages them to run the operation by legal counsel.  If the people who are standing up these ICOs don't even know it's money-laundering, how would the average "Main Street" investor?
 
 After spending countless hours studying a wide range of ICO white papers, their websites, and anything else these ICOs have to offer by way of "information", I have come to a place where I have become extremely skeptical as to the merits of the vast majority of these projects.  If you are interested in what I've found and why I've become so jaded, read on.
+
+---
 
 Disclaimer 1: I am not a financial advisor.  More importantly, I'm not your financial advisor.  
 Disclaimer 2: I have no authority to determine the legal status of anything, especially ICOs.  
