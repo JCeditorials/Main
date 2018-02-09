@@ -1,5 +1,7 @@
 # JC's Guide to Identifying Ugly ICOs
 
+People come up with all kinds interesting things.  The latest and greatest seems to be "\[some-search-engine-word\] blockchain" = next ICO.  It's so formulaic!  "Awesome" blockchain.  "World Peace" blockchain.  The most interesting part is that quite often the people who are leading these endeavors don't even realize it's "Money-Laundering Method #2855" blockchain until a blockchain developer is being walked through how they want the technology to be set up and firmly-but-gently encourages them to run the operation by legal counsel.  If they don't even know it's money-laundering, how would the average "Main Street" investor?
+
 After spending countless hours studying a wide range of ICO white papers, their websites, and anything else these ICOs have to offer by way of "information", I have come to a place where I have become extremely skeptical as to the merits of the vast majority of these projects.  If you are interested in what I've found and why I've become so jaded, read on.
 
 Disclaimer 1: I am not a financial advisor.  More importantly, I'm not your financial advisor.  
@@ -11,7 +13,7 @@ In most cases, there is not a compelling business reason to require huge amounts
 As a potential investor, you will either want to put your money toward the greater cause of research and development without expecting anything back, or you will want to put your money toward something that will become an excellent product.
 - In the former, the team putting together the ICO should be honest and clear about why they are the better team and why they need to perform this research independently of other teams already doing similar things as my first inclination would be to ask "why are you not trying to get along with the more established teams that invented this stuff and are offering grants at the moment?"  This also means they should not be emphasizing a product or set of products that imply that you can expect a return on your investment.
 - In the latter, the team putting together the ICO should have a pitch deck reminiscent of startup pitch decks while making a clear case for why an ICO is needed (not just preferred) as opposed to asking angel investors and venture capitalists.  If traditional investors are already passing up this opportunity, it certainly makes me think twice.  Even startups have to make a clear case for why they need angel investments and venture capital as opposed to just putting the good idea together (bank loan or not) and obtaining vendors in the more traditional small business way.
-By the way, I fail to see how putting a cap on the ICO is substantially more responsible than not capping the ICO.  I tend to see this as purely a PR scheme.
+By the way, I fail to see how putting a cap on the ICO is substantially more responsible than not capping the ICO.  I tend to see this as purely a PR scheme.  It's like saying, "we're not as bad as those other guys because found it morally reprehensible to run away with anything in excess of this particular amount."  Yes, call me cynical.
 
 ## Overall
 
@@ -21,7 +23,11 @@ By the way, I fail to see how putting a cap on the ICO is substantially more res
 
 #### Yellow Flags:
 - Emphasis on what could be done and what the team would like to do vs. what they are doing and just need extra funding to accomplish.
-- 
+- Proposed business model attempts to solve for too many business cases.  It's fun to go crazy about where things can lead, but if it's not clear what will be focused on and prioritized to establish a solid foundation for those future technologies, the team is already operating in a scattered and inefficient, likely ineffective manner.
+- Proposed business model fails to consider major practical aspects of the industry they want to create technology for.
+
+#### Possibly Positive Notions:
+- Everything has its proper place without too much repetition, indicating the team that put together the presentation was thoughtful about where each item belonged.
 
 ## White Paper
 
@@ -29,10 +35,10 @@ By the way, I fail to see how putting a cap on the ICO is substantially more res
 - White paper is not prominent or easily accessible through the website.
 - White paper does not contain any technical content.
 - There is no technical white paper available.
-- The technical white paper is not sufficiently technical (i.e. does not contain 
+- The technical white paper is not sufficiently technical (i.e. does not contain technical specifications, technical designs, and/or code snippets) which indicates they haven't thought it through sufficiently yet and are asking for money too early.
 
 #### Yellow Flags:
-- 
+- White paper contains technical content, but struggles to clearly explain how the proposed technology solves the problem(s).
 
 #### Possibly Positive Notions:
 - Technical white paper contains code.  (This indicates they have already begun work, not just wanting to get started.)
@@ -43,7 +49,7 @@ By the way, I fail to see how putting a cap on the ICO is substantially more res
 - Overdoing it with above-board claims.
 
 #### Yellow Flags:
-- Trying to scare away competition with gimmicks (e.g. "patent pending" without offering a provisional patent number for ease of verification to clarify which piece of technology is patented ... which, by the way, is not a guarantee that the patent being applied for will be granted, especially if it is overly broad)
+- Trying to scare away competition with gimmicks (e.g. "patent pending" without offering a provisional patent number for ease of verification to clarify which piece of technology is patented ... which, by the way, is not a guarantee that the patent being applied for will be granted, especially if it is overly broad).
 
 ## Legal
 
