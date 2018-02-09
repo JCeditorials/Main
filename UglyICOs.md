@@ -14,7 +14,7 @@ In most cases, there is not a compelling business reason to require huge amounts
 
 As a potential investor, you will either want to put your money toward the greater cause of research and development without expecting anything back, or you will want to put your money toward something that will become an excellent product.
 - In the former, the team putting together the ICO should be honest and clear about why they are the better team and why they need to perform this research independently of other teams already doing similar things as my first inclination would be to ask "why are you not trying to get along with the more established teams that invented this stuff and are offering grants at the moment?"  This also means they should not be emphasizing a product or set of products that imply that you can expect a return on your investment.
-- In the latter, the team putting together the ICO should have a pitch deck reminiscent of startup pitch decks while making a clear case for why an ICO is needed (not just preferred) as opposed to asking angel investors and venture capitalists.  If traditional investors are already passing up this opportunity, it certainly makes me think twice.  Even startups have to make a clear case for why they need angel investments and venture capital as opposed to just putting the good idea together (bank loan or not) and obtaining vendors in the more traditional small business way.
+- In the latter, the team putting together the ICO should have a pitch deck reminiscent of startup pitch decks (containing market research with leading indicator data, etc.) while making a clear case for why an ICO is needed (not just preferred) as opposed to asking angel investors and venture capitalists.  If traditional investors are already passing up this opportunity, it certainly makes me think twice.  Even startups have to make a clear case for why they need angel investments and venture capital as opposed to just putting the good idea together (bank loan or not) and obtaining vendors in the more traditional small business way.
 
 By the way, I fail to see how putting a cap on the ICO is substantially more responsible than not capping the ICO.  I tend to see this as purely a PR scheme.  It's like saying, "we're not as bad as those other guys because found it morally reprehensible to run away with anything in excess of this particular amount."  Yes, call me cynical.
 
@@ -27,7 +27,7 @@ By the way, I fail to see how putting a cap on the ICO is substantially more res
 - "Proprietary" methods and background algorithms that are not explained.
 
 #### Yellow Flags:
-- Emphasis on what could be done and what the team would like to do vs. what they are doing and just need extra funding to accomplish.
+- Emphasis on what **could** be done and what the team would **like** to do vs. what they **are** doing and just need extra funding to finish.
 - Proposed business model attempts to solve for too many business cases.  It's fun to go crazy about where things can lead, but if it's not clear what will be focused on and prioritized to establish a solid foundation for those future technologies, the team is already operating in a scattered and inefficient, likely ineffective manner.
 - Proposed business model fails to consider major practical aspects of the industry they want to create technology for.
 
