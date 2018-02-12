@@ -16,7 +16,7 @@ As a potential investor, you will either want to put your money toward the great
 - In the former, the team putting together the ICO should be honest and clear about why they are the better team and why they need to perform this research independently of other teams already doing similar things as my first inclination would be to ask "why are you not trying to get along with the more established teams that invented this stuff and are offering grants at the moment?"  This also means they should not be emphasizing a product or set of products that imply that you can expect a return on your investment.
 - In the latter, the team putting together the ICO should have a pitch deck reminiscent of startup pitch decks (containing market research with leading indicator data, etc.) while making a clear case for why an ICO is needed (not just preferred) as opposed to asking angel investors and venture capitalists.  If traditional investors are already passing up this opportunity, it certainly makes me think twice.  Even startups have to make a clear case for why they need angel investments and venture capital as opposed to just putting the good idea together (bank loan or not) and obtaining vendors in the more traditional small business way.
 
-By the way, I fail to see how putting a cap on the ICO is substantially more responsible than not capping the ICO.  I tend to see this as purely a PR scheme.  It's like saying, "we're not as bad as those other guys because found it morally reprehensible to run away with anything in excess of this particular amount."  Yes, call me cynical.
+By the way, I fail to see how putting a cap on the ICO is substantially more responsible than not capping the ICO.  I tend to see this as purely a PR scheme.  It's like saying, "we're not as bad as those other guys because we found it morally reprehensible to run away with anything in excess of this particular amount."  Yes, call me cynical.
 
 ---
 
@@ -55,6 +55,9 @@ By the way, I fail to see how putting a cap on the ICO is substantially more res
 
 #### Yellow Flags:
 - Trying to scare away competition with gimmicks (e.g. "patent pending" without offering a provisional patent number for ease of verification to clarify which piece of technology is patented ... which, by the way, is not a guarantee that the patent being applied for will be granted, especially if it is overly broad).
+
+#### Possibly Positive Notions:
+- 
 
 ## Legal
 
@@ -98,6 +101,10 @@ By the way, I fail to see how putting a cap on the ICO is substantially more res
 ---
 
 So this is my challenge for teams cranking out ICOs and making a killing off ICOs-in-a-box: Improve the content you crank out and earn your keep.  Be a stalwart gatekeeper for potential investors and require your clients to supply quality information to the public so you feel good about putting your watermark behind the company.
+
+Some principles to think about:
+- You are responsible for your own risks.  This is a nascent and mostly unregulated industry, so your options for recourse are limited.  The best practice is to not risk more than you are willing to lose.  The next best practice is to self-insure against possible catastrophes.
+- If you don't feel like you have enough information to make a good decision, pass this one up.  There will be other opportunities.
 
 As a final note on blockchains: While I'm not a financial advisor and cannot make specific recommendations on how to valuate ICOs, I can tell you that I prefer to look at the business model to see where the funding bottlenecks and potential traps are.  I've found that in most cases, it is either
 - at the gap between on-chain information and off-chain information (i.e. public reporting vs. private accounting practices at the corporate level, a la "we promise to post screenshots of our bank account balances and we're independently audited, etc.") , or
