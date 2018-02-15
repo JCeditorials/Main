@@ -1,6 +1,6 @@
-# Main
+# JC Editorials (.pub)
 
-## JC Editorials (.pub)
+This is the staging repository for the JCeditorials.pub.
 
 ### ... because.
 
