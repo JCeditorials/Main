@@ -1,19 +1,19 @@
 # Terms and Use of Terms
 
 ### Economy and Economics
-Etymologically, economy means "household management".
-From there, the meaning eventually shifted to "trade" (exchange).
-Economy now means "wealth" as in resources.
-Early economists often confined "wealth" to goods, thereby excluding services.
-Economics is the study of production, distribution, and consumption of goods and services (wealth).
+Etymologically, economy means "household management".  
+From there, the meaning eventually shifted to "trade" (exchange).  
+Economy now means "wealth" as in resources.  
+Early economists often confined "wealth" to goods, thereby excluding services.  
+Economics is the study of production, distribution, and consumption of goods and services (wealth).  
 The study of "household management" (wealth distribution at the agent level) would now be placed under the subcategory of microeconomics.
 
 ### Field Fit
-Beginning with the broadest concept of trade/exchange, it seems appropriate to set outward bounds.
-When it comes to our discussions of economy or economics, we will limit trade/exchange to being between two or more people (not two or more robots, not two or more plants, etc.).
-As we are now endeavoring to understand a human behavior, it seems useful to draw from other disciplines that concern human behavior.
-The field that examines human behavior at the individual level is psychology.  Research here should provide support for understanding microeconomics (individual trades/exchanges).
-The field that examines human behavior at the aggregate level is anthropology.  Research here should provide a good foundation for understanding macroeconomics (aggregate trade/exchange trends).
+Beginning with the broadest concept of trade/exchange, it seems appropriate to set outward bounds.  
+When it comes to our discussions of economy or economics, we will limit trade/exchange to being between two or more people (not two or more robots, not two or more plants, etc.).  
+As we are now endeavoring to understand a human behavior, it seems useful to draw from other disciplines that concern human behavior.  
+The field that examines human behavior at the individual level is psychology.  Research here should provide support for understanding microeconomics (individual trades/exchanges).  
+The field that examines human behavior at the aggregate level is anthropology.  Research here should provide a good foundation for understanding macroeconomics (aggregate trade/exchange trends).  
 
 It has been my experience that macroeconomics and microeconomics have an unusually difficult time lining up with each other.  One would think, if for no other reason than simply based on their names, that these disciplines would be interrelated, interconnected, or complementary.  In asking students who chose to major in economics how these disciplines relate, most concluded that they are not all that related.  When I asked those same students which they prefer, the overwhelming response was microeconomics.  When I asked them why, they claimed that microeconomics was more scientific in that hypotheses could be tested and supported or rejected.  They further claimed that macroeconomic events were unpredictible because there were too many factors or variables involved.  This may explain why reputable economists of modern day have roughly similar predictive ability (of recessions) as meteorologists have (of major weather events).  That and the assertion(s) by 20th century economists that inductive reasoning (postulating generalizations from observations), intuition, and belief are sufficient for macroeconomic modeling.  When compared to the latest standard for sciences, macroeconomics has repeatedly earned its place among the pseudosciences.
 
