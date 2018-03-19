@@ -19,3 +19,5 @@ This is a problem for:
 - Right of Might vs. Right of Contract ... where land is conquered and protected instead of held in an exclusionary contract against all others (usufructory and adverse possession) ... but in practice is a combination where a person pays land taxes to protect the parcel from external and internal enemies with the implication that the "owner" will actually use the land (instead of simply speculating on its future value)
 - Control vs. Consideration ... where one passes off some portion of control for other benefits (consideration) which forms an implied or explicit contract that, if breached, allows control to be retained instead
 - Reflexivity tends toward disequilibrium (boom/bust cycles)
+- Underutilization vs. Overutilization (Tragedy of the Commons and Free-Riding)
+- The Management of Agreement: Groupthink's Confirmation Bias (leading to False Consensus Effect) vs. Abilene Paradox (stemming from Pluralistic Ignorance)
